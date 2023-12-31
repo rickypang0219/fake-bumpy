@@ -1,0 +1,5 @@
+/Users/ricky/array/build/CMakeFiles/myapi.dir
+/Users/ricky/array/build/CMakeFiles/edit_cache.dir
+/Users/ricky/array/build/CMakeFiles/rebuild_cache.dir
+/Users/ricky/array/build/pybind11/CMakeFiles/edit_cache.dir
+/Users/ricky/array/build/pybind11/CMakeFiles/rebuild_cache.dir
