@@ -820,27 +820,28 @@ CMakeFiles/myapi.dir/api.cpp.o: api.cpp \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h \
-  array.h \
-  pybind11/include/pybind11/attr.h \
-  pybind11/include/pybind11/buffer_info.h \
-  pybind11/include/pybind11/cast.h \
-  pybind11/include/pybind11/attr.h \
-  pybind11/include/pybind11/options.h \
-  pybind11/include/pybind11/pytypes.h \
-  pybind11/include/pybind11/detail/class.h \
-  pybind11/include/pybind11/detail/common.h \
-  pybind11/include/pybind11/detail/descr.h \
-  pybind11/include/pybind11/detail/init.h \
-  pybind11/include/pybind11/detail/internals.h \
-  pybind11/include/pybind11/detail/type_caster_base.h \
-  pybind11/include/pybind11/detail/typeid.h \
-  pybind11/include/pybind11/gil.h \
-  pybind11/include/pybind11/gil_safe_call_once.h \
-  pybind11/include/pybind11/options.h \
-  pybind11/include/pybind11/pybind11.h \
-  pybind11/include/pybind11/pytypes.h \
-  pybind11/include/pybind11/stl.h \
-  pybind11/include/pybind11/typing.h \
+  /Users/ricky/array/api.cpp \
+  /Users/ricky/array/array.h \
+  /Users/ricky/array/pybind11/include/pybind11/attr.h \
+  /Users/ricky/array/pybind11/include/pybind11/buffer_info.h \
+  /Users/ricky/array/pybind11/include/pybind11/cast.h \
+  /Users/ricky/array/pybind11/include/pybind11/attr.h \
+  /Users/ricky/array/pybind11/include/pybind11/options.h \
+  /Users/ricky/array/pybind11/include/pybind11/pytypes.h \
+  /Users/ricky/array/pybind11/include/pybind11/detail/class.h \
+  /Users/ricky/array/pybind11/include/pybind11/detail/common.h \
+  /Users/ricky/array/pybind11/include/pybind11/detail/descr.h \
+  /Users/ricky/array/pybind11/include/pybind11/detail/init.h \
+  /Users/ricky/array/pybind11/include/pybind11/detail/internals.h \
+  /Users/ricky/array/pybind11/include/pybind11/detail/type_caster_base.h \
+  /Users/ricky/array/pybind11/include/pybind11/detail/typeid.h \
+  /Users/ricky/array/pybind11/include/pybind11/gil.h \
+  /Users/ricky/array/pybind11/include/pybind11/gil_safe_call_once.h \
+  /Users/ricky/array/pybind11/include/pybind11/options.h \
+  /Users/ricky/array/pybind11/include/pybind11/pybind11.h \
+  /Users/ricky/array/pybind11/include/pybind11/pytypes.h \
+  /Users/ricky/array/pybind11/include/pybind11/stl.h \
+  /Users/ricky/array/pybind11/include/pybind11/typing.h \
   /opt/homebrew/Caskroom/miniconda/base/include/python3.11/Python.h \
   /opt/homebrew/Caskroom/miniconda/base/include/python3.11/abstract.h \
   /opt/homebrew/Caskroom/miniconda/base/include/python3.11/bltinmodule.h \
@@ -1685,8 +1686,11 @@ CMakeFiles/myapi.dir/array.cpp.o: array.cpp \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h \
-  array.h
+  /Users/ricky/array/array.cpp \
+  /Users/ricky/array/array.h
 
+
+/Users/ricky/array/array.cpp:
 
 array.cpp:
 
@@ -1764,8 +1768,6 @@ array.cpp:
 
 /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pythread.h:
 
-/opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pythonrun.h:
-
 /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pystate.h:
 
 /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pymem.h:
@@ -1828,27 +1830,23 @@ array.cpp:
 
 /opt/homebrew/Caskroom/miniconda/base/include/python3.11/Python.h:
 
-pybind11/include/pybind11/typing.h:
+/Users/ricky/array/pybind11/include/pybind11/typing.h:
 
-pybind11/include/pybind11/gil_safe_call_once.h:
+/Users/ricky/array/pybind11/include/pybind11/gil.h:
 
-pybind11/include/pybind11/gil.h:
+/Users/ricky/array/pybind11/include/pybind11/detail/typeid.h:
 
-pybind11/include/pybind11/detail/typeid.h:
+/Users/ricky/array/pybind11/include/pybind11/detail/type_caster_base.h:
 
-pybind11/include/pybind11/detail/internals.h:
+/Users/ricky/array/pybind11/include/pybind11/detail/init.h:
 
-pybind11/include/pybind11/detail/init.h:
+/opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pythonrun.h:
 
-pybind11/include/pybind11/pytypes.h:
+/Users/ricky/array/pybind11/include/pybind11/detail/class.h:
 
-pybind11/include/pybind11/options.h:
+/Users/ricky/array/pybind11/include/pybind11/options.h:
 
-pybind11/include/pybind11/buffer_info.h:
-
-pybind11/include/pybind11/attr.h:
-
-array.h:
+/Users/ricky/array/pybind11/include/pybind11/attr.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h:
 
@@ -1988,6 +1986,8 @@ array.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_blksize_t.h:
 
+/Users/ricky/array/pybind11/include/pybind11/detail/common.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_pthread/_pthread_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_u_int64_t.h:
@@ -2057,8 +2057,6 @@ array.h:
 /opt/homebrew/Caskroom/miniconda/base/include/python3.11/tracemalloc.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/type_traits:
-
-pybind11/include/pybind11/detail/common.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/tuple:
 
@@ -2150,6 +2148,8 @@ pybind11/include/pybind11/detail/common.h:
 
 /opt/homebrew/Caskroom/miniconda/base/include/python3.11/genericaliasobject.h:
 
+/Users/ricky/array/pybind11/include/pybind11/gil_safe_call_once.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__variant/monostate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__iterator/projected.h:
@@ -2214,8 +2214,6 @@ pybind11/include/pybind11/detail/common.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/noexcept_move_assign_container.h:
 
-pybind11/include/pybind11/pybind11.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/set_intersection.h:
@@ -2276,6 +2274,8 @@ pybind11/include/pybind11/pybind11.h:
 
 /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/sysmodule.h:
 
+/Users/ricky/array/pybind11/include/pybind11/detail/internals.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/_mcontext.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__tuple_dir/tuple_indices.h:
@@ -2311,6 +2311,8 @@ pybind11/include/pybind11/pybind11.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_is_partitioned.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_reference.h:
+
+/Users/ricky/array/pybind11/include/pybind11/pybind11.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_primary_template.h:
 
@@ -2415,8 +2417,6 @@ pybind11/include/pybind11/pybind11.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/remove_reference.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/dependent_type.h:
-
-pybind11/include/pybind11/detail/class.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/copy_cv.h:
 
@@ -2752,8 +2752,6 @@ pybind11/include/pybind11/detail/class.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__functional/binder1st.h:
 
-pybind11/include/pybind11/stl.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__functional/bind_front.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__functional/bind_back.h:
@@ -2795,6 +2793,8 @@ pybind11/include/pybind11/stl.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__concepts/semiregular.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__concepts/regular.h:
+
+/Users/ricky/array/array.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__concepts/predicate.h:
 
@@ -2948,6 +2948,8 @@ pybind11/include/pybind11/stl.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__chrono/convert_to_tm.h:
 
+/Users/ricky/array/pybind11/include/pybind11/pytypes.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__concepts/constructible.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__memory/uses_allocator.h:
@@ -2991,6 +2993,8 @@ pybind11/include/pybind11/stl.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_types/_wctrans_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_timeval.h:
+
+/Users/ricky/array/pybind11/include/pybind11/stl.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__bit/bit_width.h:
 
@@ -3212,8 +3216,6 @@ pybind11/include/pybind11/stl.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_nth_element.h:
 
-pybind11/include/pybind11/detail/descr.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__iterator/unreachable_sentinel.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_rotate.h:
@@ -3310,6 +3312,8 @@ pybind11/include/pybind11/detail/descr.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/integral_constant.h:
 
+/Users/ricky/array/pybind11/include/pybind11/detail/descr.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_find_if_not.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_find.h:
@@ -3360,6 +3364,8 @@ pybind11/include/pybind11/detail/descr.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/move.h:
 
+/Users/ricky/array/pybind11/include/pybind11/buffer_info.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/copy_cvref.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/map:
@@ -3367,6 +3373,8 @@ pybind11/include/pybind11/detail/descr.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_ctermid.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_dev_t.h:
+
+/Users/ricky/array/pybind11/include/pybind11/cast.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/minmax_element.h:
 
@@ -3395,6 +3403,8 @@ pybind11/include/pybind11/detail/descr.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/limits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/iterator:
+
+/Users/ricky/array/api.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_pod.h:
 
@@ -3462,8 +3472,6 @@ pybind11/include/pybind11/detail/descr.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/find.h:
 
-pybind11/include/pybind11/detail/type_caster_base.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__bit/bit_log2.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__chrono/file_clock.h:
@@ -3509,8 +3517,6 @@ api.cpp:
 /opt/homebrew/Caskroom/miniconda/base/include/python3.11/structseq.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_types/_intmax_t.h:
-
-pybind11/include/pybind11/cast.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/push_heap.h:
 

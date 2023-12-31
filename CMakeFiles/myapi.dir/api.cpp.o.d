@@ -1,41 +1,39 @@
-CMakeFiles/myapi.dir/api.cpp.o: /Users/ricky/array/api.cpp \
-  /Users/ricky/array/pybind11/include/pybind11/pybind11.h \
-  /Users/ricky/array/pybind11/include/pybind11/detail/class.h \
-  /Users/ricky/array/pybind11/include/pybind11/detail/../attr.h \
-  /Users/ricky/array/pybind11/include/pybind11/detail/common.h \
+CMakeFiles/myapi.dir/api.cpp.o: /Users/kachunpang/fake-numpy/api.cpp \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/pybind11.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/detail/class.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/detail/../attr.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/detail/common.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/optional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/variant \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/Python.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/patchlevel.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pyconfig.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pymacconfig.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/stdlib.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/Python.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/patchlevel.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pyconfig.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pymacconfig.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__config_site \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/stdlib.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/cdefs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_symbol_aliasing.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_posix_availability.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/machine/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/_limits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/syslimits.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/stdio.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/stdio.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/Availability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/AvailabilityVersions.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/AvailabilityInternal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/AvailabilityInternalLegacy.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/cdefs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_symbol_aliasing.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_posix_availability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/machine/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_pthread/_pthread_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/wait.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_pid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_id_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/appleapiopts.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/machine/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/signal.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/machine/_mcontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/_mcontext.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/mach/machine/_structs.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/mach/arm/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_va_list.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/machine/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_int8_t.h \
@@ -48,11 +46,38 @@ CMakeFiles/myapi.dir/api.cpp.o: /Users/ricky/array/api.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_u_int64_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_intptr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_uintptr_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_size_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_null.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/stdio.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_seek_set.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_ctermid.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_off_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_ssize_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/string.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/string.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_rsize_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_errno_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/strings.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/errno.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/errno.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/errno.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/stdlib.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/stdlib.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/wait.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_pid_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_id_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/signal.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/appleapiopts.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/machine/signal.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/signal.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/machine/_mcontext.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/_mcontext.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/mach/machine/_structs.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/mach/arm/_structs.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_pthread/_pthread_attr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_sigaltstack.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_ucontext.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_sigset_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_size_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_uid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/resource.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/stdint.h \
@@ -75,28 +100,10 @@ CMakeFiles/myapi.dir/api.cpp.o: /Users/ricky/array/api.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_ct_rune_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_rune_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_wchar_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_null.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/malloc/_malloc.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/malloc/_malloc_type.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_dev_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_mode_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_va_list.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_seek_set.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_ctermid.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_off_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_ssize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/errno.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/errno.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/errno.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_errno_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/string.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/string.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_rsize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/strings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/unistd.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/unistd.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_posix_vdisable.h \
@@ -117,34 +124,10 @@ CMakeFiles/myapi.dir/api.cpp.o: /Users/ricky/array/api.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_uuid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/gethostuuid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/assert.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/wchar.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/stddef.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/wchar.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_mbstate_t.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/time.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_clock_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_wctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/__wctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_wint_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_types/_wctype_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/ctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/ctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_ctype.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/runetype.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pyport.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pyport.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/inttypes.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/inttypes.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/inttypes.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/limits.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/machine/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/arm/_limits.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/syslimits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/enable_if.h \
@@ -162,6 +145,9 @@ CMakeFiles/myapi.dir/api.cpp.o: /Users/ricky/array/api.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__verbose_abort \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__availability \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/version \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/stddef.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/__stddef_max_align_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/limits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_signed.h \
@@ -284,6 +270,8 @@ CMakeFiles/myapi.dir/api.cpp.o: /Users/ricky/array/api.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cstdint \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_timeval64.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/time.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_clock_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/stat.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_blkcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_blksize_t.h \
@@ -292,81 +280,86 @@ CMakeFiles/myapi.dir/api.cpp.o: /Users/ricky/array/api.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_nlink_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_s_ifmt.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_filesec_t.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/exports.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pymacro.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pymath.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pymem.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pymem.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pytypedefs.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pybuffer.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/object.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/object.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/objimpl.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/objimpl.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/typeslots.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pyhash.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pydebug.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/bytearrayobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/bytearrayobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/bytesobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/bytesobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/unicodeobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/unicodeobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/longobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/longobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/longintrepr.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/boolobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/floatobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/floatobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/complexobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/complexobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/rangeobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/memoryobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/tupleobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/tupleobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/listobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/listobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/dictobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/dictobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/odictobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/enumobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/setobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/setobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/methodobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/methodobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/moduleobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/funcobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/classobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/fileobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/fileobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pycapsule.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/code.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pyframe.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pyframe.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/traceback.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/traceback.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/sliceobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/cellobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/iterobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/initconfig.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pystate.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pystate.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/genobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/descrobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/descrobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/genericaliasobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/warnings.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/warnings.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/weakrefobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/weakrefobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/structseq.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/picklebufobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pytime.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/codecs.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pyerrors.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pyerrors.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pythread.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pythread.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/exports.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pymacro.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pymath.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pymem.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/pymem.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/object.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/object.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/objimpl.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/objimpl.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/typeslots.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pyhash.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/pydebug.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/bytearrayobject.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/bytearrayobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/bytesobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/bytesobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/unicodeobject.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/ctype.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/ctype.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_ctype.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/runetype.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_wint_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/wchar.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/wchar.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_mbstate_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_wctype.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/__wctype.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_types/_wctype_t.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/unicodeobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/longobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/longintrepr.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/boolobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/floatobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/complexobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/rangeobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/memoryobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/tupleobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/tupleobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/listobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/listobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/dictobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/dictobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/odictobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/enumobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/setobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/methodobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/methodobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/moduleobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/funcobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/classobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/fileobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/fileobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pycapsule.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/code.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/code.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pyframe.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/traceback.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/traceback.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/sliceobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cellobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/iterobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/initconfig.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/genobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pystate.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/pystate.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/abstract.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/abstract.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/descrobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/genericaliasobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/warnings.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/weakrefobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/structseq.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/namespaceobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/picklebufobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/pytime.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/codecs.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pyerrors.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/pyerrors.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pythread.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/pthread.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/pthread/sched.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/pthread/pthread_impl.h \
@@ -382,35 +375,33 @@ CMakeFiles/myapi.dir/api.cpp.o: /Users/ricky/array/api.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/pthread/qos.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/qos.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_mach_port_t.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/context.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/modsupport.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/modsupport.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/compile.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/compile.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pythonrun.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pythonrun.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pylifecycle.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pylifecycle.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/ceval.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/ceval.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/sysmodule.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/sysmodule.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/osmodule.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/intrcheck.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/import.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/import.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/abstract.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/abstract.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/bltinmodule.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pyctype.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pystrtod.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/pystrcmp.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/fileutils.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/fileutils.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/pyfpe.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/tracemalloc.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/frameobject.h \
-  /opt/homebrew/Caskroom/miniconda/base/include/python3.11/cpython/frameobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/context.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/modsupport.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/compile.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/compile.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pythonrun.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/pythonrun.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pylifecycle.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/pylifecycle.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/ceval.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/ceval.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/sysmodule.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/sysmodule.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/osmodule.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/intrcheck.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/import.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/import.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/bltinmodule.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/eval.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/pyctype.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pystrtod.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/pystrcmp.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/fileutils.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/fileutils.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/pyfpe.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/tracemalloc.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/frameobject.h \
+  /opt/homebrew/Caskroom/miniforge/base/include/python3.10/cpython/frameobject.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cstring \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/exception \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__memory/addressof.h \
@@ -882,30 +873,30 @@ CMakeFiles/myapi.dir/api.cpp.o: /Users/ricky/array/api.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__string/extern_template_lists.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/typeindex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/unordered_set \
-  /Users/ricky/array/pybind11/include/pybind11/cast.h \
-  /Users/ricky/array/pybind11/include/pybind11/detail/descr.h \
-  /Users/ricky/array/pybind11/include/pybind11/detail/type_caster_base.h \
-  /Users/ricky/array/pybind11/include/pybind11/detail/../pytypes.h \
-  /Users/ricky/array/pybind11/include/pybind11/buffer_info.h \
-  /Users/ricky/array/pybind11/include/pybind11/detail/internals.h \
-  /Users/ricky/array/pybind11/include/pybind11/detail/typeid.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/cast.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/detail/descr.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/detail/type_caster_base.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/detail/../pytypes.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/buffer_info.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/detail/internals.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/detail/typeid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cxxabi.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__cxxabi_config.h \
-  /Users/ricky/array/pybind11/include/pybind11/pytypes.h \
-  /Users/ricky/array/pybind11/include/pybind11/detail/../options.h \
-  /Users/ricky/array/pybind11/include/pybind11/detail/init.h \
-  /Users/ricky/array/pybind11/include/pybind11/attr.h \
-  /Users/ricky/array/pybind11/include/pybind11/gil.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/pytypes.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/detail/../options.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/detail/init.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/attr.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/gil.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cassert \
-  /Users/ricky/array/pybind11/include/pybind11/gil_safe_call_once.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/gil_safe_call_once.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/mutex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__mutex_base \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/system_error \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__errc \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cerrno \
-  /Users/ricky/array/pybind11/include/pybind11/options.h \
-  /Users/ricky/array/pybind11/include/pybind11/typing.h \
-  /Users/ricky/array/pybind11/include/pybind11/stl.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/options.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/typing.h \
+  /Users/kachunpang/fake-numpy/pybind11/include/pybind11/stl.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/deque \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/list \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/map \
@@ -946,4 +937,4 @@ CMakeFiles/myapi.dir/api.cpp.o: /Users/ricky/array/api.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cstdarg \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/set \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/valarray \
-  /Users/ricky/array/array.h
+  /Users/kachunpang/fake-numpy/array.h

@@ -53,10 +53,10 @@ RM = /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ricky/array
+CMAKE_SOURCE_DIR = /Users/kachunpang/fake-numpy
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ricky/array
+CMAKE_BINARY_DIR = /Users/kachunpang/fake-numpy
 
 # Include any dependencies generated for this target.
 include CMakeFiles/myapi.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/myapi.dir/flags.make
 CMakeFiles/myapi.dir/array.cpp.o: CMakeFiles/myapi.dir/flags.make
 CMakeFiles/myapi.dir/array.cpp.o: array.cpp
 CMakeFiles/myapi.dir/array.cpp.o: CMakeFiles/myapi.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ricky/array/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/myapi.dir/array.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myapi.dir/array.cpp.o -MF CMakeFiles/myapi.dir/array.cpp.o.d -o CMakeFiles/myapi.dir/array.cpp.o -c /Users/ricky/array/array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/kachunpang/fake-numpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/myapi.dir/array.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myapi.dir/array.cpp.o -MF CMakeFiles/myapi.dir/array.cpp.o.d -o CMakeFiles/myapi.dir/array.cpp.o -c /Users/kachunpang/fake-numpy/array.cpp
 
 CMakeFiles/myapi.dir/array.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/myapi.dir/array.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ricky/array/array.cpp > CMakeFiles/myapi.dir/array.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kachunpang/fake-numpy/array.cpp > CMakeFiles/myapi.dir/array.cpp.i
 
 CMakeFiles/myapi.dir/array.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/myapi.dir/array.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ricky/array/array.cpp -o CMakeFiles/myapi.dir/array.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kachunpang/fake-numpy/array.cpp -o CMakeFiles/myapi.dir/array.cpp.s
 
 CMakeFiles/myapi.dir/api.cpp.o: CMakeFiles/myapi.dir/flags.make
 CMakeFiles/myapi.dir/api.cpp.o: api.cpp
 CMakeFiles/myapi.dir/api.cpp.o: CMakeFiles/myapi.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ricky/array/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/myapi.dir/api.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myapi.dir/api.cpp.o -MF CMakeFiles/myapi.dir/api.cpp.o.d -o CMakeFiles/myapi.dir/api.cpp.o -c /Users/ricky/array/api.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/kachunpang/fake-numpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/myapi.dir/api.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/myapi.dir/api.cpp.o -MF CMakeFiles/myapi.dir/api.cpp.o.d -o CMakeFiles/myapi.dir/api.cpp.o -c /Users/kachunpang/fake-numpy/api.cpp
 
 CMakeFiles/myapi.dir/api.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/myapi.dir/api.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ricky/array/api.cpp > CMakeFiles/myapi.dir/api.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kachunpang/fake-numpy/api.cpp > CMakeFiles/myapi.dir/api.cpp.i
 
 CMakeFiles/myapi.dir/api.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/myapi.dir/api.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ricky/array/api.cpp -o CMakeFiles/myapi.dir/api.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kachunpang/fake-numpy/api.cpp -o CMakeFiles/myapi.dir/api.cpp.s
 
 # Object files for target myapi
 myapi_OBJECTS = \
@@ -105,16 +105,16 @@ myapi_OBJECTS = \
 # External object files for target myapi
 myapi_EXTERNAL_OBJECTS =
 
-myapi.cpython-311-darwin.so: CMakeFiles/myapi.dir/array.cpp.o
-myapi.cpython-311-darwin.so: CMakeFiles/myapi.dir/api.cpp.o
-myapi.cpython-311-darwin.so: CMakeFiles/myapi.dir/build.make
-myapi.cpython-311-darwin.so: CMakeFiles/myapi.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/ricky/array/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX shared module myapi.cpython-311-darwin.so"
+myapi.cpython-310-darwin.so: CMakeFiles/myapi.dir/array.cpp.o
+myapi.cpython-310-darwin.so: CMakeFiles/myapi.dir/api.cpp.o
+myapi.cpython-310-darwin.so: CMakeFiles/myapi.dir/build.make
+myapi.cpython-310-darwin.so: CMakeFiles/myapi.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/kachunpang/fake-numpy/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX shared module myapi.cpython-310-darwin.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/myapi.dir/link.txt --verbose=$(VERBOSE)
-	/Library/Developer/CommandLineTools/usr/bin/strip -x /Users/ricky/array/myapi.cpython-311-darwin.so
+	/Library/Developer/CommandLineTools/usr/bin/strip -x /Users/kachunpang/fake-numpy/myapi.cpython-310-darwin.so
 
 # Rule to build all files generated by this target.
-CMakeFiles/myapi.dir/build: myapi.cpython-311-darwin.so
+CMakeFiles/myapi.dir/build: myapi.cpython-310-darwin.so
 .PHONY : CMakeFiles/myapi.dir/build
 
 CMakeFiles/myapi.dir/clean:
@@ -122,6 +122,6 @@ CMakeFiles/myapi.dir/clean:
 .PHONY : CMakeFiles/myapi.dir/clean
 
 CMakeFiles/myapi.dir/depend:
-	cd /Users/ricky/array && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ricky/array /Users/ricky/array /Users/ricky/array /Users/ricky/array /Users/ricky/array/CMakeFiles/myapi.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/kachunpang/fake-numpy && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/kachunpang/fake-numpy /Users/kachunpang/fake-numpy /Users/kachunpang/fake-numpy /Users/kachunpang/fake-numpy /Users/kachunpang/fake-numpy/CMakeFiles/myapi.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/myapi.dir/depend
 

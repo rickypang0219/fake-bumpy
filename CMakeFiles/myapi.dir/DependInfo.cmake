@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ricky/array/api.cpp" "CMakeFiles/myapi.dir/api.cpp.o" "gcc" "CMakeFiles/myapi.dir/api.cpp.o.d"
-  "/Users/ricky/array/array.cpp" "CMakeFiles/myapi.dir/array.cpp.o" "gcc" "CMakeFiles/myapi.dir/array.cpp.o.d"
+  "/Users/kachunpang/fake-numpy/api.cpp" "CMakeFiles/myapi.dir/api.cpp.o" "gcc" "CMakeFiles/myapi.dir/api.cpp.o.d"
+  "/Users/kachunpang/fake-numpy/array.cpp" "CMakeFiles/myapi.dir/array.cpp.o" "gcc" "CMakeFiles/myapi.dir/array.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,5 +1,5 @@
-CMakeFiles/myapi.dir/array.cpp.o: /Users/ricky/array/array.cpp \
-  /Users/ricky/array/array.h \
+CMakeFiles/myapi.dir/array.cpp.o: /Users/kachunpang/fake-numpy/array.cpp \
+  /Users/kachunpang/fake-numpy/array.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/copy.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/copy_move_common.h \

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ricky/array
+# Install script for directory: /Users/kachunpang/fake-numpy
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/ricky/array/pybind11/cmake_install.cmake")
+  include("/Users/kachunpang/fake-numpy/pybind11/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ricky/array/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/kachunpang/fake-numpy/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
